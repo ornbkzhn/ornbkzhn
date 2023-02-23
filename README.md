@@ -1,3 +1,1 @@
-<div id="header" align="center">
-  <img src="https://tenor.com/ru/view/how-why-confused-look-confused-perplexed-gif-14697282" width="100"/>
-</div>
+<div class="tenor-gif-embed" data-postid="14697282" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/how-why-confused-look-confused-perplexed-gif-14697282">How Why GIF</a>from <a href="https://tenor.com/search/how-gifs">How GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
