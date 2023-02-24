@@ -5,8 +5,6 @@ head
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 75%" />
 </div>  
   
-
-
 ### <div align="center">I'm Bekzhan</div>  
   
 - 🌱 I’m currently learning Golang  
@@ -31,10 +29,3 @@ visits
 <img src="https://komarev.com/ghpvc/?username=ornbkzhn&&style=flat-square" align="center" />
 </div>  
   
-
-
-
-
-
-
-
